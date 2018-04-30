@@ -1,0 +1,3 @@
+Projekt do předmětu IPP na VUT FIT. Letní semestr 2018
+Projekt se skládá ze tří skriptů, dvou psaných v PHP a jednom v jazyce python.
+Program je vesměs akademický a očekává "pseudoassemblerový" jazyk IPP_CODE jež skript parse.php převede do XML a skript interpret vykgenerovanou XML reprezentaci interpretuje.
